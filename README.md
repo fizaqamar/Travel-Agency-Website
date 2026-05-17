@@ -31,3 +31,14 @@ A responsive travel agency website built using HTML and CSS featuring modern lay
 
 ## Author
 Fiza Qamar
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### About Page
+![About](screenshots/aboutpage.png)
+
+### Contact Page
+![Contact](screenshots/contactpage.png)
